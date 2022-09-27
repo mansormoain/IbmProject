@@ -7,7 +7,7 @@
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
    # mansormoain
-   #Upading code
+   #Upading this code
    # Input:
    # p, principal amount
    # t, time period in years
